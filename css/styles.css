@@ -71,6 +71,7 @@ body {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
+  letter-spacing: 0.02em;
 }
 .btn-hero {
   color: var(--hero-title-buttons);
@@ -80,6 +81,8 @@ body {
   font-size: 16px;
   line-height: 1.5;
   align-items: center;
+  letter-spacing: 0.04em;
+  cursor: pointer;
 }
 
 .active-btn:hover,
