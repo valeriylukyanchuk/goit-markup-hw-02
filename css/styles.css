@@ -149,13 +149,15 @@ body {
   cursor: pointer;
   align-items: center;
   text-align: center;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.04em;
 }
 
 .secondary-title-cards {
   color: var(--secondary-titles-color);
   font-size: 20px;
   line-height: 1.2;
+  font-weight: 500;
+  letter-spacing: 0.02em;
 }
 /* cards */
 .text-dsc {
