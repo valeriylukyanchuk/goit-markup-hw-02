@@ -174,8 +174,9 @@ body {
   color: var(--accent-logo-color);
   font-weight: 800;
   font-size: 18px;
-  line-height: 1.16;
+  line-height: 1.33;
   text-transform: uppercase;
+  letter-spacing: 0.03em;
 }
 .basement-second-logo {
   color: var(--cloud);
