@@ -34,7 +34,7 @@ body {
   color: var(--accent-color);
   font-weight: 800;
   font-size: 18px;
-  line-height: 1.33;
+  line-height: 1.17;
   text-transform: uppercase;
   letter-spacing: 0.03em;
 }
@@ -185,7 +185,7 @@ body {
   color: var(--accent-logo-color);
   font-weight: 800;
   font-size: 18px;
-  line-height: 1.33;
+  line-height: 1.17;
   text-transform: uppercase;
   letter-spacing: 0.03em;
 }
